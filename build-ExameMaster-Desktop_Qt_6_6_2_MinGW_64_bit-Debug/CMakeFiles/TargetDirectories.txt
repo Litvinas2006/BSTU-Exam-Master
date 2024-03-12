@@ -1,0 +1,9 @@
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ExameMaster.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ExameMaster_autogen_timestamp_deps.dir
+D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/ExameMaster_autogen.dir

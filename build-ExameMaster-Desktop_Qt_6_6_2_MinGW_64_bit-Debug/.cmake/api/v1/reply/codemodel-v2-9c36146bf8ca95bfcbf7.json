@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-707e68922bdfd0264a64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ExameMaster",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ExameMaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExameMaster-Debug-c75ca5b6cd70f57697a3.json",
+					"name" : "ExameMaster",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExameMaster_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExameMaster_autogen-Debug-e14cb83e0fbed5cbaf70.json",
+					"name" : "ExameMaster_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ExameMaster_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ExameMaster_autogen_timestamp_deps-Debug-dacaf0d9c8290bfee9f4.json",
+					"name" : "ExameMaster_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "D:/git/BSTU-Exam-Master/ExameMaster"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
