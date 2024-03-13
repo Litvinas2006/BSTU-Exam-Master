@@ -41,8 +41,11 @@ endif()
 # _directory_contents at G:/Qt/6.6.2/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/git/BSTU-Exam-Master/ExameMaster/*.cpp")
 set(OLD_GLOB
+  "D:/git/BSTU-Exam-Master/ExameMaster/choice.cpp"
   "D:/git/BSTU-Exam-Master/ExameMaster/main.cpp"
   "D:/git/BSTU-Exam-Master/ExameMaster/mainwindow.cpp"
+  "D:/git/BSTU-Exam-Master/ExameMaster/qa.cpp"
+  "D:/git/BSTU-Exam-Master/ExameMaster/result.cpp"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -61,7 +64,10 @@ endif()
 # _directory_contents at G:/Qt/6.6.2/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/git/BSTU-Exam-Master/ExameMaster/*.h")
 set(OLD_GLOB
+  "D:/git/BSTU-Exam-Master/ExameMaster/choice.h"
   "D:/git/BSTU-Exam-Master/ExameMaster/mainwindow.h"
+  "D:/git/BSTU-Exam-Master/ExameMaster/qa.h"
+  "D:/git/BSTU-Exam-Master/ExameMaster/result.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
@@ -161,7 +167,10 @@ endif()
 # _directory_contents at G:/Qt/6.6.2/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "D:/git/BSTU-Exam-Master/ExameMaster/*.ui")
 set(OLD_GLOB
+  "D:/git/BSTU-Exam-Master/ExameMaster/choice.ui"
   "D:/git/BSTU-Exam-Master/ExameMaster/mainwindow.ui"
+  "D:/git/BSTU-Exam-Master/ExameMaster/qa.ui"
+  "D:/git/BSTU-Exam-Master/ExameMaster/result.ui"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   message("-- GLOB mismatch!")
