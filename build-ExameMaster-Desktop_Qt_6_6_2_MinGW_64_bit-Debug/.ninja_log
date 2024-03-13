@@ -1,0 +1,11 @@
+# ninja log v5
+3	32	0	D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f86535a1b8540217
+825	4210	7320589646501072	CMakeFiles/ExameMaster.dir/ExameMaster_autogen/mocs_compilation.cpp.obj	977c70f73efb76d1
+2	824	7320589612000852	ExameMaster_autogen/timestamp	3636d1e0650f5e81
+2	824	7320589612000852	D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ExameMaster_autogen/timestamp	3636d1e0650f5e81
+2	824	7320589612000852	ExameMaster_autogen/mocs_compilation.cpp	3636d1e0650f5e81
+2	824	7320589612000852	D:/git/BSTU-Exam-Master/build-ExameMaster-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/ExameMaster_autogen/mocs_compilation.cpp	3636d1e0650f5e81
+828	4261	7320589647001082	CMakeFiles/ExameMaster.dir/mainwindow.cpp.obj	d264bbde6f1f7a87
+826	4272	7320589647111126	CMakeFiles/ExameMaster.dir/main.cpp.obj	5d8de64491cb214e
+827	4682	7320589651160416	CMakeFiles/ExameMaster.dir/choice.cpp.obj	2fc413f74fcbff69
+4682	5148	7320589655775454	ExameMaster.exe	1b1cf0fc10980045

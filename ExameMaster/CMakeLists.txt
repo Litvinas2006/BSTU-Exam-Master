@@ -26,6 +26,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(ExameMaster
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        choice.h choice.cpp choice.ui
+        result.h result.cpp result.ui
+        qa.h qa.cpp qa.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET ExameMaster APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
